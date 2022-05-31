@@ -1,0 +1,1 @@
+This is one of my first projects in the Odin Project, it is a recipes page for practicing making and programminf pages and more.
